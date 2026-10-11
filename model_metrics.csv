@@ -1,0 +1,9 @@
+Model,MAE,RMSE,R2
+Mean baseline,62575.93,87619.03,-0.0009
+Linear Regression,18388.28,29354.71,0.8877
+Ridge (alpha=0.1),18341.99,28863.58,0.8914
+Ridge (alpha=1),19047.58,29494.6,0.8866
+Ridge (alpha=10),19153.19,30160.47,0.8814
+Ridge (alpha=100),18868.11,31714.36,0.8689
+Log-target Linear Regression,14808.34,22951.18,0.9313
+Log-target Ridge (alpha=0.1),15164.1,23331.31,0.929
